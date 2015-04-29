@@ -1,4 +1,4 @@
-=== azurecurve Tag Cloud ===
+=== azurecurve Mobile Detection ===
 Contributors: azurecurve
 Donate link: http://wordpress.azurecurve.co.uk/support-development/
 
